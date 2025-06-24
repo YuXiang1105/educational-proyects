@@ -1,0 +1,11 @@
+This is a concurrent code of a road simulator.
+One is implemented with the class Semaphore (not from java Semaphore class)
+The other one is implemented with Kent's university JCSP for educational purposes
+
+Special thanks to the next professors and instructors from the Polytechnic University of Madrid for their guidance and support:
+-Angel Herranz Nieva
+-Julio Mariño Carballo
+-Lars-ake Fredlund
+-Guillermo Roman Diez
+
+The test is not available
